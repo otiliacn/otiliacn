@@ -19,7 +19,7 @@
 
 - ⚡ Curiosidades sobre mim **viajar, cinema, tecnologia.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Entrar em contato:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/otilia-c-nogueira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otilia-c-nogueira" height="30" width="40" /></a>
 <a href="https://instagram.com/otiliacn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="otiliacn" height="30" width="40" /></a>
