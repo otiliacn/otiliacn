@@ -8,10 +8,6 @@
 
 - 💬 Deixe sua pergunta sobre **tecnologia, linguagens de programação, ética e lógica**
 
-- 📫 Para entrar em contado **otiliacnogueira@gmail.com**
-
-- 📄 Saiba mais sobre mim [https://www.linkedin.com/in/otilia-c-nogueira/](https://www.linkedin.com/in/otilia-c-nogueira/)
-
 
 
 
