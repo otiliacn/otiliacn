@@ -4,11 +4,6 @@
 <h3 align="center">Professora na área da Computação. Apaixonada por compartilhar conhecimento.</h3>
 
 
-
-- 🔭 Atualmente estou trabalhando **no projeto de Portfólio**
-
-- 🌱 Atualmente estou aprendendo **Python, Frameworks, etc.**
-
 - 👯 Eu procuro colaborar em **projetos de curiosidades dos meus alunos.**
 
 - 💬 Deixe sua pergunta sobre **tecnologia, linguagens de programação, ética e lógica**
@@ -17,7 +12,6 @@
 
 - 📄 Saiba mais sobre mim [https://www.linkedin.com/in/otilia-c-nogueira/](https://www.linkedin.com/in/otilia-c-nogueira/)
 
-- ⚡ Curiosidades sobre mim **viajar, cinema, tecnologia.**
 
 
 
