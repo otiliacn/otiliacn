@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Seha bem vindo!</h1>
+<h1 align="center">Seja bem vindo!</h1>
 <h3 align="center">Professora na área da Computação. Apaixonada por compartilhar conhecimento.</h3>
 
 
